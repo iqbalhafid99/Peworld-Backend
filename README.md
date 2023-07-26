@@ -1,7 +1,7 @@
 # Mama Recipe REST API
 
 <div align="center">
- <img src="https://i.postimg.cc/4y5MRT89/peworld-logo.png" alt="Logo" width="150" height="180">
+ <img src="https://i.postimg.cc/4y5MRT89/peworld-logo.png" alt="Logo" width="300" height="190">
  <p>Welcome to Peworld!
 
 Our mission is simple: to connect job seekers and employers, fostering mutually beneficial interactions. With our Node.js and Express-based API, we aim to create a seamless platform where job seekers can find exciting opportunities and employers can discover talented individuals. Together, we build a world where everyone can thrive in their careers, creating a brighter and more prosperous future for all.
