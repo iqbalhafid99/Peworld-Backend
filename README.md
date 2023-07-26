@@ -1,4 +1,4 @@
-# Mama Recipe REST API
+# Peworld REST API
 
 <div align="center">
  <img src="https://i.postimg.cc/4y5MRT89/peworld-logo.png" alt="Logo" width="300" height="90">
@@ -17,7 +17,7 @@ Install my-project with npm
 ```bash
   npm install
 
-  cd backend-MamaRecipe
+  cd Hirejob-Backend
 ```
 
 ## Running
